@@ -1,3 +1,9 @@
+'''
+Time and space complexity:
+initialization: Time -> O(1); Space -> O(1)
+push(): Time -> O(1); Space -> O(1)
+pop(): Time -> O(1); Space -> O(1)
+'''
 
 class Node:
   def __init__(self, data):
